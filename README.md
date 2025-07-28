@@ -76,26 +76,48 @@ The backend will be available at http://127.0.0.1:8000, and the frontend will op
 folder Structure
 
 END_TO_END_HR_ASSISTANT_V1/
+
 ├── backend/
+
 │   ├── analytics_dashboard/
+
 │   ├── candidate_summarizer/
+
 │   ├── helpers/
+
 │   ├── interview_generator/
+
 │   ├── jd_generator/
+
 │   ├── job_fit_analyzer/
+
 │   ├── offer_letter_generator/
+
 │   ├── onboarding_assistant/
+
 │   ├── performance_review_assistant/
+
 │   ├── policy_assistant/
+
 │   ├── resume_screener/
+
 │   └── main.py
+
 ├── frontend/
+
 │   ├── app.py         # The Dashboard UI
+
 │   └── chatbot.py     # The Chatbot UI
+
 ├── .env
+
 ├── .gitignore
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── run_chatbot.bat
+
 └── run_hr_assistant.bat
 
