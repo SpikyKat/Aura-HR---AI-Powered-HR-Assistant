@@ -1,0 +1,27 @@
+# Python virtual environment
+venv/
+/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.*
+
+# IDE and editor configuration files
+.vscode/
+.idea/
+
+# Temporary files from the backend
+/temp_uploads/
+
+# Analytics data file (can be large and change often)
+analytics_data.json
+
+# Streamlit specific files
+.streamlit/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db

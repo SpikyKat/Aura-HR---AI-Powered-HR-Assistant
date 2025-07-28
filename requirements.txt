@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+groq
+requests
+python-docx
+PyMuPDF==1.24.1
+pandas
+numpy
+nltk
+spacy
+sentence-transformers
+scikit-learn
+torch
+transformers
+streamlit
