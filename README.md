@@ -74,6 +74,7 @@ run_chatbot.bat
 This will start the backend server and the Streamlit chatbot application.
 The backend will be available at http://127.0.0.1:8000, and the frontend will open in your browser, typically at http://localhost:8501.
 folder Structure
+
 END_TO_END_HR_ASSISTANT_V1/
 ├── backend/
 │   ├── analytics_dashboard/
@@ -97,3 +98,4 @@ END_TO_END_HR_ASSISTANT_V1/
 ├── README.md
 ├── run_chatbot.bat
 └── run_hr_assistant.bat
+
